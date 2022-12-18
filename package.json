@@ -1,0 +1,9 @@
+{
+    "name": "table-cli",
+    "version": "0.0.1",
+    "main": "bin/cli",
+    "license": "MIT",
+    "scripts": {
+        "start": "node src/app.js"
+    }
+}

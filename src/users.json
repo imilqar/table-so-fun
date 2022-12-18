@@ -1,0 +1,40 @@
+[
+    {
+        "fullname": "John Doe",
+        "age": 20
+    },
+    {
+        "fullname": "Jane Doe",
+        "age": 20
+    },
+    null,
+    {
+        "fullname": "John Winston Lennon",
+        "age": 20
+    },
+    {
+        "fullname": "George Harrison",
+        "age": 43
+    },
+    {
+        "fullname": "Paul McCartney",
+        "age": 25
+    },
+    {
+        "fullname": "Ringo Star",
+        "age": 32
+    },
+    {
+        "fullname": "Walter White",
+        "age": 53
+    },
+    {
+        "fullname": "Jesse Pinkman",
+        "age": 25
+    },
+    {
+        "fullname": "Saul Goodman",
+        "age": 40
+    },
+    null
+]

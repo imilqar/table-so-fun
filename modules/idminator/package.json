@@ -1,0 +1,6 @@
+{
+    "name": "idminator",
+    "version": "0.0.1",
+    "description": "idminator generate id with autoincrement method",
+    "main": "index.js"
+}
